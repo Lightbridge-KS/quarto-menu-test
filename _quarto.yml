@@ -9,7 +9,9 @@ format:
     toc: true
     comments:
       hypothesis: true
-  docx: default
+  docx: 
+    reference-doc: "ref/th-sarabun-new-ref.docx"
+    link-citations: true
   jats: default
   agu-pdf: default
 
